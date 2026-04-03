@@ -88,7 +88,7 @@ $ cat about.json
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ravipareek05-000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/Ravipareek05)
-[![Email](https://img.shields.io/badge/Email-Drop%20a%20message-000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Drop%20a%20message-000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:pareekravi5102003@gmail.com)
 
 <br/>
 
